@@ -1,0 +1,14 @@
+c:\Criacoes\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+c:\Criacoes\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+c:\Criacoes\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+c:\Criacoes\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+c:\Criacoes\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+c:\Criacoes\C#\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
